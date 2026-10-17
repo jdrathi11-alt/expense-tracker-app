@@ -1,0 +1,717 @@
+expense_id,date,category,description,amount,payment_method,merchant
+EXP-00042,2025-01-01,Travel,Travel activity,100.06,Digital Wallet,Rail Network
+EXP-00048,2025-01-01,Food,Dinner,48.87,Cash,Neighborhood Restaurant
+EXP-00509,2025-01-01,Utilities,Phone bill,81.48,Cash,Mobile Provider
+EXP-00556,2025-01-01,Food,Lunch,34.2,Bank Transfer,Neighborhood Restaurant
+EXP-00110,2025-01-02,Other,Miscellaneous,40.22,Card,Community Center
+EXP-00182,2025-01-02,Education,Book,95.06,Cash,Book Corner
+EXP-00299,2025-01-02,Shopping,Online order,56.11,Card,General Store
+EXP-00473,2025-01-02,Food,Dinner,60.73,Bank Transfer,City Cafe
+EXP-00092,2025-01-04,Shopping,Online order,71.84,Digital Wallet,Style Shop
+EXP-00323,2025-01-04,Transportation,Ride share,48.92,Card,Fuel Station
+EXP-00367,2025-01-04,Shopping,Online order,178.57,Digital Wallet,Style Shop
+EXP-00242,2025-01-05,Shopping,Clothing,40.1,Digital Wallet,General Store
+EXP-00154,2025-01-07,Entertainment,Streaming subscription,83.96,Digital Wallet,StreamFlix
+EXP-00184,2025-01-07,Food,Grocery shopping,44.27,Card,City Cafe
+EXP-00212,2025-01-07,Entertainment,Streaming subscription,62.3,Cash,Music Hall
+EXP-00089,2025-01-08,Food,Dinner,62.53,Card,City Cafe
+EXP-00650,2025-01-08,Housing,Repair service,532.61,Card,Home Services
+EXP-00304,2025-01-09,Utilities,Water bill,139.57,Card,Mobile Provider
+EXP-00343,2025-01-09,Travel,Hotel,114.05,Cash,StayEasy
+EXP-00698,2025-01-09,Entertainment,Movie ticket,55.67,Bank Transfer,Cinema House
+EXP-00053,2025-01-11,Shopping,Household item,86.16,Card,Style Shop
+EXP-00150,2025-01-11,Housing,Home supplies,2027.56,Bank Transfer,Apartment Management
+EXP-00504,2025-01-11,Utilities,Electricity bill,119.75,Card,Mobile Provider
+EXP-00096,2025-01-12,Healthcare,Health supplies,174.96,Digital Wallet,Community Pharmacy
+EXP-00429,2025-01-12,Housing,Home supplies,348.28,Card,Apartment Management
+EXP-00243,2025-01-13,Food,Lunch,34.66,Card,City Cafe
+EXP-00006,2025-01-14,Other,Gift,17.81,Card,Community Center
+EXP-00469,2025-01-14,Food,Coffee,15.13,Cash,Neighborhood Restaurant
+EXP-00012,2025-01-15,Other,Gift,31.95,Card,Local Shop
+EXP-00598,2025-01-15,Healthcare,Health supplies,30.84,Card,Wellness Store
+EXP-00431,2025-01-16,Other,Donation,28.02,Card,Community Center
+EXP-00366,2025-01-17,Transportation,Fuel,23.48,Cash,Metro Transit
+EXP-00023,2025-01-18,Other,Gift,36.32,Cash,Various
+EXP-00078,2025-01-18,Healthcare,Pharmacy,62.04,Card,Wellness Store
+EXP-00086,2025-01-18,Food,Grocery shopping,24.04,Bank Transfer,Corner Bakery
+EXP-00341,2025-01-18,Food,Coffee,36.41,Digital Wallet,Neighborhood Restaurant
+EXP-00013,2025-01-19,Healthcare,Health supplies,101.02,Card,Wellness Store
+EXP-00024,2025-01-19,Education,Course fee,128.44,Card,Course Platform
+EXP-00202,2025-01-19,Other,Miscellaneous,25.23,Digital Wallet,Various
+EXP-00213,2025-01-19,Food,Coffee,34.44,Card,Neighborhood Restaurant
+EXP-00536,2025-01-19,Food,Coffee,57.68,Digital Wallet,Corner Bakery
+EXP-00543,2025-01-20,Travel,Hotel,267.45,Card,StayEasy
+EXP-00361,2025-01-21,Other,Donation,40.16,Card,Local Shop
+EXP-00539,2025-01-21,Food,Grocery shopping,26.05,Card,Fresh Market
+EXP-00175,2025-01-22,Food,Grocery shopping,61.06,Card,City Cafe
+EXP-00030,2025-01-23,Shopping,Household item,47.71,Card,Market Place
+EXP-00449,2025-01-23,Housing,Repair service,573.8,Cash,Hardware Store
+EXP-00562,2025-01-23,Food,Coffee,43.33,Digital Wallet,Neighborhood Restaurant
+EXP-00016,2025-01-24,Food,Coffee,32.81,Card,Neighborhood Restaurant
+EXP-00689,2025-01-24,Shopping,Online order,38.2,Card,Market Place
+EXP-00329,2025-01-25,Healthcare,Pharmacy,43.31,Cash,Community Pharmacy
+EXP-00394,2025-01-27,Shopping,Clothing,41.46,Card,Style Shop
+EXP-00513,2025-01-27,Housing,Home supplies,1244.44,Card,Home Services
+EXP-00585,2025-01-27,Other,Miscellaneous,47.18,Bank Transfer,Various
+EXP-00471,2025-01-28,Transportation,Bus fare,30.59,Digital Wallet,Fuel Station
+EXP-00131,2025-01-29,Food,Lunch,17.87,Card,Corner Bakery
+EXP-00148,2025-01-29,Utilities,Water bill,85.29,Card,Power Company
+EXP-00411,2025-01-30,Healthcare,Pharmacy,81.02,Card,Wellness Store
+EXP-00091,2025-02-02,Food,Grocery shopping,60.13,Bank Transfer,City Cafe
+EXP-00103,2025-02-02,Food,Coffee,29.78,Card,City Cafe
+EXP-00281,2025-02-02,Housing,Home supplies,1351.18,Card,Home Services
+EXP-00369,2025-02-02,Transportation,Parking,47.55,Digital Wallet,RideNow
+EXP-00491,2025-02-02,Shopping,Clothing,46.78,Card,General Store
+EXP-00193,2025-02-03,Food,Coffee,44.48,Card,City Cafe
+EXP-00593,2025-02-03,Food,Grocery shopping,52.69,Card,Fresh Market
+EXP-00642,2025-02-03,Travel,Hotel,143.58,Cash,Travel Hub
+EXP-00250,2025-02-04,Transportation,Parking,31.2,Card,RideNow
+EXP-00402,2025-02-05,Other,Gift,79.68,Bank Transfer,Community Center
+EXP-00298,2025-02-06,Travel,Flight,216.44,Bank Transfer,Travel Hub
+EXP-00348,2025-02-06,Food,Lunch,27.87,Card,Fresh Market
+EXP-00440,2025-02-06,Healthcare,Doctor visit,117.83,Card,Community Pharmacy
+EXP-00010,2025-02-07,Transportation,Ride share,15.7,Card,RideNow
+EXP-00290,2025-02-08,Food,Dinner,41.61,Cash,City Cafe
+EXP-00387,2025-02-08,Shopping,Clothing,47.39,Card,Market Place
+EXP-00415,2025-02-08,Housing,Home supplies,1045.73,Bank Transfer,Home Services
+EXP-00026,2025-02-10,Food,Dinner,32.22,Digital Wallet,Corner Bakery
+EXP-00044,2025-02-10,Food,Lunch,46.05,Cash,Corner Bakery
+EXP-00049,2025-02-10,Shopping,Household item,75.51,Bank Transfer,Style Shop
+EXP-00098,2025-02-10,Food,Grocery shopping,15.1,Card,Fresh Market
+EXP-00376,2025-02-10,Food,Dinner,31.95,Digital Wallet,Corner Bakery
+EXP-00427,2025-02-10,Food,Dinner,56.14,Card,Fresh Market
+EXP-00139,2025-02-11,Shopping,Clothing,91.31,Digital Wallet,Market Place
+EXP-00506,2025-02-13,Shopping,Online order,36.25,Card,General Store
+EXP-00179,2025-02-14,Education,Learning supplies,97.24,Digital Wallet,Course Platform
+EXP-00436,2025-02-14,Food,Lunch,42.28,Cash,Corner Bakery
+EXP-00165,2025-02-15,Entertainment,Movie ticket,50.99,Digital Wallet,Music Hall
+EXP-00170,2025-02-15,Other,Donation,9.85,Card,Community Center
+EXP-00488,2025-02-15,Food,Grocery shopping,52.86,Bank Transfer,Corner Bakery
+EXP-00640,2025-02-15,Education,Book,53.51,Card,Course Platform
+EXP-00190,2025-02-16,Food,Dinner,40.15,Digital Wallet,City Cafe
+EXP-00365,2025-02-16,Healthcare,Doctor visit,105.45,Cash,Wellness Store
+EXP-00336,2025-02-17,Entertainment,Movie ticket,75.31,Card,Music Hall
+EXP-00566,2025-02-17,Healthcare,Doctor visit,95.94,Digital Wallet,Health Clinic
+EXP-00645,2025-02-17,Entertainment,Movie ticket,64.93,Bank Transfer,Music Hall
+EXP-00664,2025-02-17,Food,Dinner,53.83,Card,City Cafe
+EXP-00205,2025-02-18,Housing,Rent payment,467.53,Cash,Apartment Management
+EXP-00455,2025-02-18,Food,Grocery shopping,21.31,Card,Fresh Market
+EXP-00486,2025-02-18,Transportation,Parking,35.36,Bank Transfer,RideNow
+EXP-00379,2025-02-19,Transportation,Ride share,50.44,Digital Wallet,Metro Transit
+EXP-00088,2025-02-20,Utilities,Phone bill,71.22,Card,NetConnect
+EXP-00396,2025-02-20,Transportation,Parking,21.18,Cash,RideNow
+EXP-00668,2025-02-20,Other,Donation,39.27,Card,Various
+EXP-00172,2025-02-22,Utilities,Electricity bill,44.41,Digital Wallet,Water Works
+EXP-00523,2025-02-22,Food,Dinner,37.47,Digital Wallet,City Cafe
+EXP-00167,2025-02-23,Travel,Hotel,146.58,Digital Wallet,Airline Co
+EXP-00495,2025-02-23,Shopping,Clothing,132.34,Card,Style Shop
+EXP-00084,2025-02-24,Food,Dinner,31.59,Bank Transfer,Fresh Market
+EXP-00135,2025-02-24,Entertainment,Streaming subscription,53.62,Card,StreamFlix
+EXP-00237,2025-02-24,Utilities,Electricity bill,38.18,Card,NetConnect
+EXP-00258,2025-02-24,Food,Lunch,45.3,Bank Transfer,Neighborhood Restaurant
+EXP-00623,2025-02-24,Other,Miscellaneous,30.03,Card,Various
+EXP-00041,2025-02-25,Transportation,Ride share,23.59,Cash,Fuel Station
+EXP-00530,2025-02-25,Food,Lunch,19.01,Card,Neighborhood Restaurant
+EXP-00568,2025-02-25,Housing,Repair service,884.05,Card,Hardware Store
+EXP-00573,2025-02-25,Utilities,Electricity bill,45.04,Digital Wallet,Mobile Provider
+EXP-00097,2025-02-26,Transportation,Parking,10.57,Cash,City Parking
+EXP-00215,2025-02-27,Shopping,Online order,57.17,Card,General Store
+EXP-00507,2025-02-27,Food,Dinner,25.82,Digital Wallet,Fresh Market
+EXP-00255,2025-02-28,Food,Grocery shopping,23.33,Cash,Neighborhood Restaurant
+EXP-00414,2025-02-28,Education,Course fee,148.17,Card,Learning Center
+EXP-00468,2025-02-28,Other,Miscellaneous,43.7,Card,Various
+EXP-00047,2025-03-01,Transportation,Parking,28.1,Cash,Fuel Station
+EXP-00116,2025-03-01,Education,Learning supplies,42.52,Digital Wallet,Book Corner
+EXP-00338,2025-03-01,Shopping,Household item,61.26,Card,Market Place
+EXP-00496,2025-03-01,Entertainment,Streaming subscription,40.33,Cash,Cinema House
+EXP-00655,2025-03-01,Education,Learning supplies,76.25,Card,Learning Center
+EXP-00156,2025-03-02,Healthcare,Pharmacy,48.77,Cash,Community Pharmacy
+EXP-00197,2025-03-02,Entertainment,Concert,29.55,Card,Music Hall
+EXP-00410,2025-03-02,Other,Gift,55.56,Card,Local Shop
+EXP-00501,2025-03-02,Shopping,Clothing,63.38,Cash,General Store
+EXP-00611,2025-03-04,Entertainment,Streaming subscription,23.3,Bank Transfer,StreamFlix
+EXP-00663,2025-03-04,Food,Coffee,39.04,Card,Neighborhood Restaurant
+EXP-00176,2025-03-05,Housing,Rent payment,883.36,Bank Transfer,Apartment Management
+EXP-00443,2025-03-06,Shopping,Clothing,39.32,Card,General Store
+EXP-00592,2025-03-06,Transportation,Parking,13.34,Card,RideNow
+EXP-00707,2025-03-06,Shopping,Household item,53.98,Card,Style Shop
+EXP-00262,2025-03-07,Travel,Hotel,118.45,Card,Travel Hub
+EXP-00446,2025-03-07,Shopping,Clothing,54.04,Digital Wallet,Style Shop
+EXP-00199,2025-03-08,Food,Lunch,28.0,Bank Transfer,Fresh Market
+EXP-00489,2025-03-08,Entertainment,Movie ticket,27.59,Digital Wallet,StreamFlix
+EXP-00223,2025-03-09,Healthcare,Health supplies,112.25,Card,Wellness Store
+EXP-00358,2025-03-09,Shopping,Clothing,64.25,Card,Market Place
+EXP-00451,2025-03-09,Housing,Repair service,566.07,Bank Transfer,Apartment Management
+EXP-00094,2025-03-10,Transportation,Parking,26.97,Digital Wallet,City Parking
+EXP-00520,2025-03-10,Travel,Travel activity,121.28,Cash,StayEasy
+EXP-00083,2025-03-11,Travel,Train ticket,172.71,Digital Wallet,StayEasy
+EXP-00211,2025-03-11,Shopping,Household item,53.76,Bank Transfer,Style Shop
+EXP-00631,2025-03-11,Other,Gift,15.22,Digital Wallet,Local Shop
+EXP-00330,2025-03-13,Food,Coffee,34.64,Card,Corner Bakery
+EXP-00264,2025-03-14,Food,Grocery shopping,10.9,Card,Neighborhood Restaurant
+EXP-00347,2025-03-14,Other,Donation,55.8,Card,Various
+EXP-00654,2025-03-14,Food,Coffee,16.87,Card,Corner Bakery
+EXP-00356,2025-03-15,Utilities,Phone bill,156.11,Card,Power Company
+EXP-00676,2025-03-15,Transportation,Parking,43.47,Cash,Metro Transit
+EXP-00300,2025-03-16,Healthcare,Pharmacy,55.09,Card,Wellness Store
+EXP-00034,2025-03-17,Transportation,Ride share,21.89,Cash,RideNow
+EXP-00432,2025-03-17,Shopping,Clothing,168.82,Digital Wallet,General Store
+EXP-00500,2025-03-17,Utilities,Internet bill,168.46,Digital Wallet,Water Works
+EXP-00305,2025-03-18,Education,Learning supplies,66.86,Card,Course Platform
+EXP-00549,2025-03-18,Shopping,Online order,51.53,Card,General Store
+EXP-00270,2025-03-19,Housing,Home supplies,1141.26,Card,Apartment Management
+EXP-00548,2025-03-19,Food,Grocery shopping,32.54,Digital Wallet,Fresh Market
+EXP-00142,2025-03-20,Utilities,Water bill,83.19,Card,NetConnect
+EXP-00399,2025-03-23,Transportation,Bus fare,51.24,Bank Transfer,City Parking
+EXP-00063,2025-03-25,Entertainment,Streaming subscription,32.23,Bank Transfer,Cinema House
+EXP-00072,2025-03-25,Transportation,Parking,45.08,Digital Wallet,Metro Transit
+EXP-00039,2025-03-26,Food,Coffee,35.92,Card,City Cafe
+EXP-00105,2025-03-26,Shopping,Household item,107.9,Digital Wallet,General Store
+EXP-00216,2025-03-26,Shopping,Clothing,106.51,Bank Transfer,General Store
+EXP-00377,2025-03-27,Other,Gift,27.47,Card,Various
+EXP-00437,2025-03-27,Food,Dinner,44.34,Card,Fresh Market
+EXP-00169,2025-03-28,Food,Dinner,25.94,Bank Transfer,Fresh Market
+EXP-00066,2025-03-30,Entertainment,Movie ticket,84.05,Card,Cinema House
+EXP-00102,2025-03-30,Shopping,Clothing,85.39,Card,Market Place
+EXP-00269,2025-03-30,Food,Grocery shopping,41.47,Cash,Fresh Market
+EXP-00346,2025-03-30,Shopping,Online order,52.79,Card,General Store
+EXP-00014,2025-03-31,Travel,Travel activity,189.17,Card,Rail Network
+EXP-00371,2025-03-31,Shopping,Clothing,48.94,Cash,Style Shop
+EXP-00452,2025-03-31,Education,Course fee,80.16,Digital Wallet,Book Corner
+EXP-00466,2025-03-31,Shopping,Clothing,72.03,Cash,Style Shop
+EXP-00075,2025-04-01,Housing,Home supplies,594.17,Card,Home Services
+EXP-00123,2025-04-01,Food,Coffee,74.6,Digital Wallet,Fresh Market
+EXP-00464,2025-04-01,Food,Dinner,80.99,Bank Transfer,Neighborhood Restaurant
+EXP-00660,2025-04-01,Transportation,Parking,30.93,Digital Wallet,Metro Transit
+EXP-00122,2025-04-03,Healthcare,Doctor visit,238.6,Bank Transfer,Community Pharmacy
+EXP-00220,2025-04-03,Transportation,Ride share,27.42,Card,Metro Transit
+EXP-00378,2025-04-03,Transportation,Bus fare,32.99,Cash,Fuel Station
+EXP-00412,2025-04-03,Healthcare,Doctor visit,223.29,Card,Community Pharmacy
+EXP-00502,2025-04-03,Education,Book,33.13,Card,Book Corner
+EXP-00686,2025-04-04,Transportation,Ride share,26.95,Cash,Fuel Station
+EXP-00364,2025-04-05,Food,Grocery shopping,34.87,Digital Wallet,Fresh Market
+EXP-00639,2025-04-05,Shopping,Household item,117.26,Card,Market Place
+EXP-00062,2025-04-06,Utilities,Phone bill,53.75,Card,NetConnect
+EXP-00019,2025-04-07,Travel,Travel activity,289.6,Digital Wallet,Rail Network
+EXP-00181,2025-04-07,Education,Learning supplies,87.23,Card,Learning Center
+EXP-00261,2025-04-07,Food,Coffee,12.35,Digital Wallet,Corner Bakery
+EXP-00442,2025-04-07,Food,Coffee,50.61,Card,Neighborhood Restaurant
+EXP-00233,2025-04-08,Other,Miscellaneous,59.24,Cash,Local Shop
+EXP-00200,2025-04-10,Food,Grocery shopping,54.28,Card,Neighborhood Restaurant
+EXP-00051,2025-04-11,Food,Coffee,58.58,Card,City Cafe
+EXP-00666,2025-04-11,Shopping,Online order,54.84,Bank Transfer,General Store
+EXP-00354,2025-04-12,Entertainment,Streaming subscription,57.31,Card,Music Hall
+EXP-00605,2025-04-12,Other,Gift,22.41,Card,Various
+EXP-00111,2025-04-13,Transportation,Fuel,29.33,Bank Transfer,Fuel Station
+EXP-00559,2025-04-13,Entertainment,Streaming subscription,24.77,Card,StreamFlix
+EXP-00560,2025-04-13,Utilities,Internet bill,83.32,Card,NetConnect
+EXP-00669,2025-04-13,Food,Grocery shopping,33.38,Cash,Corner Bakery
+EXP-00671,2025-04-13,Food,Coffee,36.91,Card,City Cafe
+EXP-00477,2025-04-14,Transportation,Bus fare,8.82,Card,RideNow
+EXP-00670,2025-04-14,Transportation,Parking,18.3,Card,City Parking
+EXP-00553,2025-04-15,Food,Coffee,38.69,Card,City Cafe
+EXP-00043,2025-04-16,Shopping,Household item,36.6,Card,General Store
+EXP-00601,2025-04-16,Utilities,Internet bill,97.16,Bank Transfer,Mobile Provider
+EXP-00121,2025-04-17,Entertainment,Streaming subscription,31.35,Cash,StreamFlix
+EXP-00011,2025-04-18,Transportation,Parking,51.96,Card,Metro Transit
+EXP-00206,2025-04-18,Food,Grocery shopping,52.54,Card,Neighborhood Restaurant
+EXP-00380,2025-04-18,Shopping,Household item,75.54,Card,Style Shop
+EXP-00141,2025-04-19,Utilities,Water bill,53.29,Cash,Mobile Provider
+EXP-00422,2025-04-19,Housing,Home supplies,524.32,Digital Wallet,Home Services
+EXP-00467,2025-04-19,Healthcare,Health supplies,107.0,Cash,Community Pharmacy
+EXP-00036,2025-04-21,Food,Grocery shopping,38.77,Card,Fresh Market
+EXP-00161,2025-04-21,Food,Coffee,26.37,Card,City Cafe
+EXP-00383,2025-04-21,Shopping,Online order,103.07,Bank Transfer,Style Shop
+EXP-00581,2025-04-21,Utilities,Water bill,152.83,Card,Power Company
+EXP-00612,2025-04-21,Healthcare,Doctor visit,100.06,Card,Health Clinic
+EXP-00398,2025-04-22,Food,Lunch,19.52,Cash,City Cafe
+EXP-00649,2025-04-22,Healthcare,Doctor visit,67.98,Digital Wallet,Community Pharmacy
+EXP-00339,2025-04-23,Food,Coffee,32.66,Card,Corner Bakery
+EXP-00687,2025-04-23,Transportation,Fuel,27.64,Card,RideNow
+EXP-00022,2025-04-25,Transportation,Bus fare,17.85,Card,Fuel Station
+EXP-00381,2025-04-25,Entertainment,Movie ticket,30.69,Digital Wallet,Music Hall
+EXP-00146,2025-04-26,Food,Coffee,66.6,Card,City Cafe
+EXP-00164,2025-04-26,Housing,Home supplies,2346.5,Card,Apartment Management
+EXP-00087,2025-04-27,Shopping,Clothing,62.68,Card,Market Place
+EXP-00136,2025-04-27,Housing,Repair service,516.87,Card,Hardware Store
+EXP-00316,2025-04-27,Transportation,Fuel,23.89,Card,City Parking
+EXP-00576,2025-04-27,Utilities,Internet bill,121.07,Bank Transfer,Water Works
+EXP-00690,2025-04-27,Entertainment,Concert,36.22,Card,Cinema House
+EXP-00064,2025-04-28,Shopping,Online order,121.02,Digital Wallet,Style Shop
+EXP-00510,2025-04-28,Food,Coffee,19.64,Card,Corner Bakery
+EXP-00712,2025-04-28,Healthcare,Doctor visit,174.31,Card,Health Clinic
+EXP-00643,2025-04-29,Housing,Home supplies,998.78,Digital Wallet,Hardware Store
+EXP-00475,2025-04-30,Food,Coffee,15.53,Card,Fresh Market
+EXP-00652,2025-04-30,Education,Learning supplies,57.56,Card,Course Platform
+EXP-00711,2025-04-30,Other,Miscellaneous,39.07,Card,Various
+EXP-00074,2025-05-01,Food,Grocery shopping,40.58,Cash,City Cafe
+EXP-00629,2025-05-01,Entertainment,Streaming subscription,54.36,Card,Music Hall
+EXP-00054,2025-05-02,Healthcare,Pharmacy,127.94,Bank Transfer,Health Clinic
+EXP-00071,2025-05-02,Food,Grocery shopping,36.18,Digital Wallet,City Cafe
+EXP-00337,2025-05-02,Food,Coffee,10.5,Card,Fresh Market
+EXP-00465,2025-05-02,Entertainment,Concert,47.57,Card,StreamFlix
+EXP-00720,2025-05-02,Other,Donation,19.29,Bank Transfer,Various
+EXP-00331,2025-05-04,Shopping,Clothing,81.58,Bank Transfer,General Store
+EXP-00342,2025-05-04,Other,Miscellaneous,50.69,Card,Community Center
+EXP-00460,2025-05-04,Healthcare,Pharmacy,77.77,Cash,Community Pharmacy
+EXP-00534,2025-05-05,Healthcare,Doctor visit,33.54,Card,Wellness Store
+EXP-00538,2025-05-05,Food,Dinner,44.1,Card,Neighborhood Restaurant
+EXP-00634,2025-05-05,Transportation,Bus fare,20.64,Digital Wallet,City Parking
+EXP-00207,2025-05-06,Food,Coffee,66.18,Card,Corner Bakery
+EXP-00271,2025-05-06,Housing,Rent payment,1946.15,Cash,Home Services
+EXP-00353,2025-05-06,Entertainment,Streaming subscription,41.68,Card,Cinema House
+EXP-00590,2025-05-06,Housing,Repair service,1013.62,Cash,Home Services
+EXP-00152,2025-05-07,Education,Learning supplies,41.79,Card,Book Corner
+EXP-00317,2025-05-08,Transportation,Ride share,41.14,Card,Fuel Station
+EXP-00391,2025-05-10,Healthcare,Pharmacy,82.07,Card,Community Pharmacy
+EXP-00245,2025-05-11,Entertainment,Streaming subscription,63.61,Digital Wallet,Cinema House
+EXP-00132,2025-05-12,Other,Miscellaneous,21.78,Card,Various
+EXP-00259,2025-05-12,Housing,Home supplies,1235.23,Bank Transfer,Apartment Management
+EXP-00485,2025-05-12,Housing,Rent payment,1166.37,Bank Transfer,Apartment Management
+EXP-00487,2025-05-12,Utilities,Electricity bill,108.18,Card,Mobile Provider
+EXP-00613,2025-05-12,Other,Donation,14.33,Card,Local Shop
+EXP-00333,2025-05-13,Shopping,Online order,75.41,Card,Market Place
+EXP-00705,2025-05-13,Food,Coffee,50.92,Card,City Cafe
+EXP-00616,2025-05-14,Shopping,Online order,190.76,Card,General Store
+EXP-00424,2025-05-16,Housing,Home supplies,494.23,Bank Transfer,Hardware Store
+EXP-00497,2025-05-16,Transportation,Fuel,39.84,Card,Fuel Station
+EXP-00527,2025-05-16,Other,Gift,27.35,Cash,Various
+EXP-00417,2025-05-17,Food,Lunch,25.82,Card,Corner Bakery
+EXP-00308,2025-05-18,Healthcare,Doctor visit,49.41,Cash,Community Pharmacy
+EXP-00332,2025-05-18,Food,Lunch,44.21,Card,Fresh Market
+EXP-00278,2025-05-19,Utilities,Electricity bill,94.12,Card,Water Works
+EXP-00505,2025-05-19,Utilities,Water bill,112.17,Card,Mobile Provider
+EXP-00153,2025-05-20,Food,Dinner,23.72,Bank Transfer,Neighborhood Restaurant
+EXP-00028,2025-05-21,Housing,Home supplies,817.37,Bank Transfer,Hardware Store
+EXP-00321,2025-05-21,Other,Donation,35.15,Bank Transfer,Local Shop
+EXP-00441,2025-05-21,Education,Learning supplies,49.82,Cash,Learning Center
+EXP-00189,2025-05-22,Shopping,Clothing,72.59,Card,Market Place
+EXP-00038,2025-05-24,Utilities,Water bill,113.93,Card,Mobile Provider
+EXP-00334,2025-05-24,Education,Book,79.11,Card,Learning Center
+EXP-00481,2025-05-24,Transportation,Ride share,44.05,Card,City Parking
+EXP-00572,2025-05-24,Travel,Hotel,612.13,Card,Airline Co
+EXP-00619,2025-05-24,Food,Lunch,74.49,Bank Transfer,City Cafe
+EXP-00226,2025-05-25,Other,Donation,57.21,Card,Community Center
+EXP-00254,2025-05-25,Food,Coffee,21.52,Card,City Cafe
+EXP-00314,2025-05-25,Transportation,Ride share,23.57,Card,Fuel Station
+EXP-00563,2025-05-26,Travel,Train ticket,195.38,Digital Wallet,Airline Co
+EXP-00694,2025-05-26,Transportation,Ride share,19.84,Bank Transfer,Metro Transit
+EXP-00407,2025-05-27,Food,Coffee,43.36,Cash,City Cafe
+EXP-00516,2025-05-27,Food,Dinner,29.69,Card,Neighborhood Restaurant
+EXP-00633,2025-05-27,Housing,Repair service,1048.9,Digital Wallet,Home Services
+EXP-00700,2025-05-27,Food,Lunch,46.4,Card,Fresh Market
+EXP-00426,2025-05-28,Travel,Flight,188.47,Digital Wallet,Airline Co
+EXP-00620,2025-05-28,Housing,Rent payment,1484.42,Bank Transfer,Home Services
+EXP-00248,2025-05-29,Transportation,Ride share,23.72,Card,RideNow
+EXP-00636,2025-05-29,Food,Lunch,18.64,Bank Transfer,City Cafe
+EXP-00055,2025-05-30,Shopping,Clothing,117.93,Card,General Store
+EXP-00322,2025-05-30,Utilities,Internet bill,59.18,Card,Water Works
+EXP-00395,2025-05-30,Housing,Home supplies,1441.08,Card,Hardware Store
+EXP-00435,2025-05-30,Housing,Rent payment,1842.45,Card,Home Services
+EXP-00279,2025-05-31,Education,Course fee,36.31,Card,Learning Center
+EXP-00448,2025-05-31,Entertainment,Streaming subscription,34.65,Bank Transfer,Music Hall
+EXP-00045,2025-06-01,Travel,Flight,160.25,Bank Transfer,Airline Co
+EXP-00144,2025-06-01,Entertainment,Streaming subscription,58.21,Card,StreamFlix
+EXP-00195,2025-06-01,Food,Grocery shopping,67.16,Card,Fresh Market
+EXP-00577,2025-06-01,Other,Miscellaneous,30.59,Cash,Local Shop
+EXP-00040,2025-06-02,Healthcare,Doctor visit,89.03,Card,Health Clinic
+EXP-00238,2025-06-03,Shopping,Household item,30.04,Digital Wallet,Market Place
+EXP-00630,2025-06-03,Travel,Train ticket,163.6,Card,Travel Hub
+EXP-00401,2025-06-05,Food,Lunch,39.53,Card,Fresh Market
+EXP-00247,2025-06-06,Entertainment,Movie ticket,37.42,Bank Transfer,Cinema House
+EXP-00056,2025-06-07,Shopping,Clothing,112.52,Card,Market Place
+EXP-00301,2025-06-07,Shopping,Clothing,184.68,Bank Transfer,Market Place
+EXP-00484,2025-06-08,Food,Lunch,14.28,Digital Wallet,Corner Bakery
+EXP-00567,2025-06-08,Shopping,Clothing,62.96,Card,Style Shop
+EXP-00552,2025-06-09,Food,Grocery shopping,40.05,Card,Neighborhood Restaurant
+EXP-00638,2025-06-10,Shopping,Household item,55.85,Bank Transfer,Market Place
+EXP-00695,2025-06-10,Other,Donation,31.44,Bank Transfer,Local Shop
+EXP-00717,2025-06-11,Entertainment,Concert,32.46,Card,Music Hall
+EXP-00289,2025-06-12,Utilities,Phone bill,106.41,Card,NetConnect
+EXP-00706,2025-06-12,Entertainment,Streaming subscription,32.5,Card,Cinema House
+EXP-00033,2025-06-13,Transportation,Parking,91.11,Cash,City Parking
+EXP-00203,2025-06-13,Utilities,Water bill,44.46,Card,Mobile Provider
+EXP-00450,2025-06-14,Entertainment,Streaming subscription,38.79,Bank Transfer,StreamFlix
+EXP-00479,2025-06-14,Healthcare,Health supplies,78.53,Cash,Wellness Store
+EXP-00600,2025-06-14,Entertainment,Concert,24.05,Card,StreamFlix
+EXP-00126,2025-06-15,Utilities,Internet bill,58.63,Bank Transfer,NetConnect
+EXP-00363,2025-06-15,Food,Coffee,46.02,Card,City Cafe
+EXP-00413,2025-06-15,Food,Coffee,36.36,Digital Wallet,Corner Bakery
+EXP-00607,2025-06-15,Education,Learning supplies,119.47,Bank Transfer,Course Platform
+EXP-00018,2025-06-16,Housing,Repair service,742.99,Card,Apartment Management
+EXP-00303,2025-06-16,Utilities,Electricity bill,69.85,Card,Water Works
+EXP-00115,2025-06-17,Food,Coffee,19.3,Cash,Corner Bakery
+EXP-00564,2025-06-17,Healthcare,Doctor visit,77.57,Digital Wallet,Health Clinic
+EXP-00080,2025-06-18,Shopping,Household item,64.79,Card,Style Shop
+EXP-00580,2025-06-18,Transportation,Bus fare,30.36,Cash,Metro Transit
+EXP-00514,2025-06-19,Food,Lunch,49.16,Digital Wallet,Corner Bakery
+EXP-00637,2025-06-19,Healthcare,Health supplies,55.26,Cash,Wellness Store
+EXP-00059,2025-06-20,Food,Coffee,43.54,Card,Neighborhood Restaurant
+EXP-00328,2025-06-20,Utilities,Phone bill,112.61,Digital Wallet,NetConnect
+EXP-00362,2025-06-20,Food,Dinner,38.97,Card,Fresh Market
+EXP-00257,2025-06-21,Travel,Travel activity,75.0,Card,Travel Hub
+EXP-00272,2025-06-21,Food,Grocery shopping,32.14,Bank Transfer,City Cafe
+EXP-00528,2025-06-21,Other,Donation,34.63,Card,Various
+EXP-00349,2025-06-22,Entertainment,Movie ticket,54.64,Card,StreamFlix
+EXP-00586,2025-06-22,Healthcare,Health supplies,50.92,Cash,Wellness Store
+EXP-00101,2025-06-23,Other,Donation,40.09,Card,Community Center
+EXP-00355,2025-06-24,Utilities,Internet bill,52.55,Cash,Power Company
+EXP-00359,2025-06-24,Utilities,Electricity bill,77.28,Card,Water Works
+EXP-00068,2025-06-25,Food,Coffee,21.57,Digital Wallet,Corner Bakery
+EXP-00368,2025-06-25,Healthcare,Health supplies,44.0,Card,Wellness Store
+EXP-00492,2025-06-25,Healthcare,Health supplies,116.43,Card,Health Clinic
+EXP-00077,2025-06-26,Food,Grocery shopping,35.05,Card,City Cafe
+EXP-00052,2025-06-28,Housing,Rent payment,1747.0,Digital Wallet,Home Services
+EXP-00716,2025-06-28,Food,Lunch,21.36,Card,Fresh Market
+EXP-00037,2025-06-29,Food,Lunch,32.85,Cash,Fresh Market
+EXP-00478,2025-06-29,Entertainment,Streaming subscription,40.79,Bank Transfer,StreamFlix
+EXP-00079,2025-06-30,Entertainment,Streaming subscription,40.76,Cash,StreamFlix
+EXP-00109,2025-06-30,Food,Grocery shopping,27.65,Card,Neighborhood Restaurant
+EXP-00374,2025-06-30,Food,Lunch,52.63,Digital Wallet,City Cafe
+EXP-00571,2025-07-01,Transportation,Bus fare,35.01,Card,Fuel Station
+EXP-00297,2025-07-03,Other,Gift,35.9,Digital Wallet,Local Shop
+EXP-00327,2025-07-04,Travel,Travel activity,254.98,Bank Transfer,Travel Hub
+EXP-00050,2025-07-05,Food,Lunch,26.57,Digital Wallet,Neighborhood Restaurant
+EXP-00178,2025-07-05,Other,Donation,35.65,Card,Various
+EXP-00626,2025-07-05,Transportation,Bus fare,26.97,Card,RideNow
+EXP-00240,2025-07-07,Food,Coffee,35.9,Cash,Corner Bakery
+EXP-00020,2025-07-08,Healthcare,Doctor visit,64.85,Card,Wellness Store
+EXP-00143,2025-07-08,Other,Gift,34.98,Cash,Various
+EXP-00280,2025-07-08,Education,Learning supplies,77.06,Bank Transfer,Learning Center
+EXP-00476,2025-07-08,Food,Grocery shopping,20.55,Bank Transfer,Fresh Market
+EXP-00246,2025-07-09,Education,Course fee,75.17,Card,Course Platform
+EXP-00693,2025-07-09,Food,Dinner,32.32,Card,Neighborhood Restaurant
+EXP-00360,2025-07-10,Entertainment,Concert,35.26,Digital Wallet,Music Hall
+EXP-00409,2025-07-10,Food,Lunch,29.65,Card,Neighborhood Restaurant
+EXP-00225,2025-07-11,Food,Dinner,44.91,Bank Transfer,City Cafe
+EXP-00419,2025-07-11,Food,Lunch,42.45,Card,Fresh Market
+EXP-00589,2025-07-11,Food,Lunch,34.75,Card,City Cafe
+EXP-00517,2025-07-12,Food,Coffee,37.12,Bank Transfer,Fresh Market
+EXP-00061,2025-07-13,Healthcare,Doctor visit,114.09,Card,Community Pharmacy
+EXP-00462,2025-07-13,Food,Coffee,14.44,Cash,Fresh Market
+EXP-00480,2025-07-13,Transportation,Ride share,23.43,Card,Fuel Station
+EXP-00551,2025-07-13,Utilities,Internet bill,114.89,Cash,Water Works
+EXP-00608,2025-07-13,Food,Coffee,43.84,Bank Transfer,Corner Bakery
+EXP-00113,2025-07-14,Food,Lunch,64.97,Bank Transfer,Neighborhood Restaurant
+EXP-00229,2025-07-14,Healthcare,Health supplies,99.42,Digital Wallet,Wellness Store
+EXP-00285,2025-07-14,Entertainment,Streaming subscription,61.46,Bank Transfer,StreamFlix
+EXP-00518,2025-07-14,Shopping,Household item,49.68,Digital Wallet,General Store
+EXP-00196,2025-07-15,Food,Lunch,59.84,Card,Fresh Market
+EXP-00461,2025-07-15,Entertainment,Concert,55.49,Card,StreamFlix
+EXP-00482,2025-07-15,Food,Grocery shopping,57.9,Bank Transfer,City Cafe
+EXP-00699,2025-07-16,Healthcare,Health supplies,48.99,Cash,Community Pharmacy
+EXP-00408,2025-07-17,Travel,Train ticket,172.22,Card,Rail Network
+EXP-00678,2025-07-17,Utilities,Electricity bill,71.92,Card,Mobile Provider
+EXP-00697,2025-07-18,Shopping,Household item,130.19,Card,Style Shop
+EXP-00714,2025-07-18,Other,Miscellaneous,19.46,Cash,Various
+EXP-00679,2025-07-19,Food,Dinner,78.49,Card,Neighborhood Restaurant
+EXP-00137,2025-07-20,Other,Miscellaneous,42.96,Card,Community Center
+EXP-00057,2025-07-21,Transportation,Ride share,36.24,Card,Metro Transit
+EXP-00185,2025-07-21,Shopping,Online order,88.79,Card,Market Place
+EXP-00400,2025-07-21,Transportation,Fuel,26.36,Cash,Fuel Station
+EXP-00557,2025-07-21,Food,Coffee,56.32,Bank Transfer,Fresh Market
+EXP-00224,2025-07-22,Other,Miscellaneous,39.42,Bank Transfer,Community Center
+EXP-00498,2025-07-22,Entertainment,Concert,49.71,Card,Cinema House
+EXP-00591,2025-07-22,Other,Miscellaneous,47.31,Card,Community Center
+EXP-00125,2025-07-23,Housing,Rent payment,772.54,Bank Transfer,Home Services
+EXP-00535,2025-07-24,Housing,Rent payment,1040.65,Card,Home Services
+EXP-00622,2025-07-25,Utilities,Electricity bill,104.37,Card,NetConnect
+EXP-00232,2025-07-26,Transportation,Bus fare,21.77,Card,RideNow
+EXP-00104,2025-07-27,Other,Gift,46.03,Card,Local Shop
+EXP-00015,2025-07-28,Transportation,Bus fare,33.75,Card,RideNow
+EXP-00288,2025-07-28,Transportation,Fuel,40.46,Cash,Metro Transit
+EXP-00319,2025-07-28,Food,Grocery shopping,50.27,Card,Fresh Market
+EXP-00191,2025-07-29,Other,Gift,21.51,Card,Local Shop
+EXP-00457,2025-07-29,Other,Miscellaneous,23.08,Card,Various
+EXP-00187,2025-07-30,Transportation,Parking,17.47,Digital Wallet,RideNow
+EXP-00325,2025-07-30,Travel,Flight,269.34,Bank Transfer,Airline Co
+EXP-00320,2025-08-01,Other,Miscellaneous,25.58,Card,Local Shop
+EXP-00683,2025-08-01,Housing,Rent payment,720.61,Card,Hardware Store
+EXP-00188,2025-08-02,Food,Grocery shopping,21.29,Card,Corner Bakery
+EXP-00351,2025-08-02,Entertainment,Concert,98.38,Card,Music Hall
+EXP-00418,2025-08-02,Shopping,Clothing,48.91,Card,Market Place
+EXP-00597,2025-08-02,Shopping,Household item,86.47,Card,Market Place
+EXP-00393,2025-08-03,Entertainment,Movie ticket,13.0,Digital Wallet,Cinema House
+EXP-00106,2025-08-04,Shopping,Household item,75.63,Cash,Style Shop
+EXP-00625,2025-08-04,Other,Donation,22.37,Card,Community Center
+EXP-00168,2025-08-05,Travel,Travel activity,166.48,Card,Airline Co
+EXP-00204,2025-08-06,Food,Dinner,32.57,Card,Corner Bakery
+EXP-00214,2025-08-06,Travel,Hotel,373.76,Bank Transfer,Airline Co
+EXP-00065,2025-08-07,Healthcare,Health supplies,120.97,Cash,Health Clinic
+EXP-00584,2025-08-07,Transportation,Fuel,32.78,Card,RideNow
+EXP-00140,2025-08-08,Food,Lunch,34.84,Card,City Cafe
+EXP-00324,2025-08-08,Utilities,Water bill,160.3,Card,NetConnect
+EXP-00085,2025-08-09,Housing,Rent payment,372.96,Card,Hardware Store
+EXP-00128,2025-08-09,Food,Lunch,33.32,Digital Wallet,Neighborhood Restaurant
+EXP-00433,2025-08-09,Shopping,Household item,37.96,Bank Transfer,General Store
+EXP-00512,2025-08-10,Travel,Hotel,132.55,Cash,Travel Hub
+EXP-00222,2025-08-11,Utilities,Water bill,66.87,Card,Mobile Provider
+EXP-00318,2025-08-11,Shopping,Online order,33.8,Cash,General Store
+EXP-00684,2025-08-11,Transportation,Fuel,28.88,Bank Transfer,RideNow
+EXP-00704,2025-08-11,Education,Book,56.94,Card,Book Corner
+EXP-00389,2025-08-13,Food,Dinner,17.61,Card,City Cafe
+EXP-00587,2025-08-13,Food,Lunch,24.69,Card,Neighborhood Restaurant
+EXP-00114,2025-08-14,Entertainment,Streaming subscription,16.08,Bank Transfer,Music Hall
+EXP-00406,2025-08-14,Education,Book,61.05,Digital Wallet,Learning Center
+EXP-00445,2025-08-14,Food,Grocery shopping,37.73,Card,Corner Bakery
+EXP-00100,2025-08-15,Other,Gift,30.18,Card,Various
+EXP-00198,2025-08-15,Education,Course fee,141.97,Bank Transfer,Course Platform
+EXP-00221,2025-08-15,Food,Grocery shopping,33.34,Card,Fresh Market
+EXP-00542,2025-08-16,Entertainment,Movie ticket,16.81,Card,StreamFlix
+EXP-00315,2025-08-17,Transportation,Ride share,25.17,Card,Fuel Station
+EXP-00688,2025-08-17,Other,Gift,27.42,Bank Transfer,Community Center
+EXP-00313,2025-08-18,Food,Coffee,28.29,Bank Transfer,City Cafe
+EXP-00570,2025-08-19,Utilities,Water bill,71.46,Card,Water Works
+EXP-00718,2025-08-19,Food,Dinner,26.86,Cash,Corner Bakery
+EXP-00027,2025-08-20,Utilities,Phone bill,59.49,Card,NetConnect
+EXP-00145,2025-08-21,Utilities,Electricity bill,89.54,Card,NetConnect
+EXP-00545,2025-08-21,Food,Lunch,28.91,Bank Transfer,City Cafe
+EXP-00554,2025-08-22,Other,Miscellaneous,58.2,Card,Community Center
+EXP-00275,2025-08-24,Shopping,Household item,115.41,Card,General Store
+EXP-00277,2025-08-24,Food,Lunch,27.66,Card,Corner Bakery
+EXP-00575,2025-08-25,Education,Course fee,50.87,Digital Wallet,Course Platform
+EXP-00632,2025-08-25,Travel,Hotel,272.64,Card,Rail Network
+EXP-00447,2025-08-26,Other,Donation,29.72,Card,Community Center
+EXP-00283,2025-08-27,Food,Lunch,17.96,Card,Neighborhood Restaurant
+EXP-00372,2025-08-27,Food,Grocery shopping,89.27,Card,Neighborhood Restaurant
+EXP-00253,2025-08-28,Transportation,Fuel,21.21,Card,RideNow
+EXP-00646,2025-08-28,Education,Book,55.92,Digital Wallet,Course Platform
+EXP-00157,2025-08-29,Food,Coffee,28.54,Card,Neighborhood Restaurant
+EXP-00541,2025-08-29,Other,Miscellaneous,15.19,Bank Transfer,Community Center
+EXP-00582,2025-08-29,Utilities,Electricity bill,35.49,Digital Wallet,NetConnect
+EXP-00583,2025-08-29,Food,Dinner,68.26,Card,Corner Bakery
+EXP-00610,2025-08-29,Transportation,Fuel,25.35,Card,RideNow
+EXP-00519,2025-08-30,Housing,Repair service,555.98,Card,Home Services
+EXP-00648,2025-08-30,Utilities,Phone bill,53.17,Card,NetConnect
+EXP-00208,2025-08-31,Healthcare,Pharmacy,60.82,Card,Health Clinic
+EXP-00644,2025-09-01,Food,Grocery shopping,32.98,Cash,Neighborhood Restaurant
+EXP-00662,2025-09-01,Education,Learning supplies,57.86,Card,Course Platform
+EXP-00173,2025-09-02,Food,Dinner,13.61,Bank Transfer,City Cafe
+EXP-00373,2025-09-03,Transportation,Bus fare,42.53,Card,City Parking
+EXP-00672,2025-09-04,Entertainment,Concert,35.22,Digital Wallet,Music Hall
+EXP-00228,2025-09-05,Entertainment,Movie ticket,38.44,Bank Transfer,Cinema House
+EXP-00594,2025-09-05,Entertainment,Streaming subscription,45.16,Card,Cinema House
+EXP-00263,2025-09-06,Food,Grocery shopping,58.74,Bank Transfer,Corner Bakery
+EXP-00533,2025-09-06,Transportation,Parking,43.13,Cash,City Parking
+EXP-00070,2025-09-07,Transportation,Fuel,29.23,Card,City Parking
+EXP-00256,2025-09-07,Shopping,Clothing,71.59,Card,General Store
+EXP-00340,2025-09-07,Other,Miscellaneous,14.37,Cash,Community Center
+EXP-00107,2025-09-08,Transportation,Parking,41.95,Card,RideNow
+EXP-00696,2025-09-08,Utilities,Phone bill,80.69,Bank Transfer,Mobile Provider
+EXP-00174,2025-09-10,Other,Gift,18.16,Cash,Various
+EXP-00032,2025-09-12,Other,Donation,52.21,Card,Local Shop
+EXP-00635,2025-09-12,Housing,Home supplies,799.94,Card,Hardware Store
+EXP-00293,2025-09-13,Other,Gift,39.55,Card,Various
+EXP-00701,2025-09-13,Food,Dinner,25.28,Cash,Corner Bakery
+EXP-00155,2025-09-14,Food,Lunch,22.44,Card,Fresh Market
+EXP-00680,2025-09-14,Transportation,Parking,44.96,Card,City Parking
+EXP-00099,2025-09-15,Food,Coffee,27.86,Cash,Neighborhood Restaurant
+EXP-00715,2025-09-15,Shopping,Clothing,72.1,Digital Wallet,Style Shop
+EXP-00160,2025-09-16,Shopping,Clothing,53.26,Cash,Style Shop
+EXP-00082,2025-09-17,Transportation,Bus fare,58.92,Card,Metro Transit
+EXP-00454,2025-09-17,Food,Grocery shopping,47.2,Card,Neighborhood Restaurant
+EXP-00615,2025-09-18,Food,Grocery shopping,36.94,Digital Wallet,City Cafe
+EXP-00235,2025-09-19,Other,Miscellaneous,27.37,Card,Various
+EXP-00310,2025-09-20,Food,Coffee,78.16,Card,City Cafe
+EXP-00463,2025-09-20,Other,Gift,29.46,Bank Transfer,Community Center
+EXP-00579,2025-09-20,Education,Course fee,114.69,Card,Course Platform
+EXP-00624,2025-09-20,Utilities,Electricity bill,106.94,Cash,Mobile Provider
+EXP-00691,2025-09-20,Food,Coffee,51.39,Card,City Cafe
+EXP-00201,2025-09-21,Shopping,Household item,72.03,Card,General Store
+EXP-00158,2025-09-22,Healthcare,Pharmacy,101.41,Bank Transfer,Community Pharmacy
+EXP-00230,2025-09-22,Food,Lunch,26.94,Bank Transfer,City Cafe
+EXP-00627,2025-09-22,Shopping,Online order,35.78,Card,Market Place
+EXP-00345,2025-09-23,Shopping,Online order,47.65,Card,General Store
+EXP-00439,2025-09-23,Shopping,Clothing,80.4,Card,General Store
+EXP-00578,2025-09-23,Entertainment,Movie ticket,61.97,Cash,StreamFlix
+EXP-00284,2025-09-24,Food,Dinner,33.23,Digital Wallet,Corner Bakery
+EXP-00133,2025-09-25,Entertainment,Concert,47.9,Bank Transfer,Music Hall
+EXP-00274,2025-09-25,Entertainment,Concert,24.12,Card,StreamFlix
+EXP-00647,2025-09-25,Housing,Rent payment,464.95,Cash,Home Services
+EXP-00151,2025-09-26,Travel,Flight,410.08,Bank Transfer,StayEasy
+EXP-00420,2025-09-26,Other,Gift,45.44,Bank Transfer,Community Center
+EXP-00617,2025-09-26,Shopping,Household item,44.1,Bank Transfer,Market Place
+EXP-00009,2025-09-27,Food,Dinner,97.74,Bank Transfer,City Cafe
+EXP-00162,2025-09-27,Other,Miscellaneous,22.24,Card,Community Center
+EXP-00618,2025-09-27,Transportation,Bus fare,26.82,Cash,Metro Transit
+EXP-00282,2025-09-28,Food,Grocery shopping,39.58,Card,Neighborhood Restaurant
+EXP-00421,2025-09-28,Healthcare,Health supplies,86.45,Digital Wallet,Health Clinic
+EXP-00526,2025-09-28,Transportation,Parking,28.3,Bank Transfer,City Parking
+EXP-00675,2025-09-28,Entertainment,Movie ticket,25.65,Digital Wallet,Music Hall
+EXP-00073,2025-09-29,Education,Learning supplies,60.15,Card,Book Corner
+EXP-00302,2025-09-29,Food,Dinner,40.15,Bank Transfer,City Cafe
+EXP-00405,2025-09-29,Other,Gift,23.38,Cash,Local Shop
+EXP-00459,2025-09-30,Shopping,Clothing,80.42,Card,Style Shop
+EXP-00603,2025-09-30,Other,Donation,49.03,Card,Local Shop
+EXP-00685,2025-09-30,Healthcare,Pharmacy,86.35,Bank Transfer,Wellness Store
+EXP-00604,2025-10-01,Shopping,Clothing,64.94,Digital Wallet,Style Shop
+EXP-00227,2025-10-02,Housing,Home supplies,1654.28,Digital Wallet,Home Services
+EXP-00544,2025-10-02,Other,Gift,19.84,Digital Wallet,Various
+EXP-00609,2025-10-02,Shopping,Online order,59.53,Bank Transfer,General Store
+EXP-00659,2025-10-02,Entertainment,Movie ticket,16.95,Bank Transfer,StreamFlix
+EXP-00350,2025-10-03,Food,Dinner,15.95,Card,Neighborhood Restaurant
+EXP-00555,2025-10-03,Housing,Home supplies,574.79,Cash,Hardware Store
+EXP-00234,2025-10-04,Entertainment,Movie ticket,52.43,Digital Wallet,Cinema House
+EXP-00428,2025-10-05,Travel,Hotel,178.99,Card,Travel Hub
+EXP-00231,2025-10-06,Food,Dinner,35.35,Cash,Neighborhood Restaurant
+EXP-00382,2025-10-07,Other,Miscellaneous,42.41,Cash,Various
+EXP-00667,2025-10-07,Travel,Hotel,69.21,Cash,StayEasy
+EXP-00335,2025-10-08,Food,Lunch,64.99,Card,Fresh Market
+EXP-00681,2025-10-08,Housing,Home supplies,937.66,Card,Home Services
+EXP-00251,2025-10-09,Healthcare,Doctor visit,121.24,Card,Community Pharmacy
+EXP-00430,2025-10-09,Travel,Hotel,166.14,Card,Travel Hub
+EXP-00118,2025-10-10,Shopping,Online order,62.9,Digital Wallet,Market Place
+EXP-00385,2025-10-10,Transportation,Bus fare,38.29,Cash,RideNow
+EXP-00029,2025-10-11,Food,Dinner,17.93,Card,Neighborhood Restaurant
+EXP-00171,2025-10-11,Food,Grocery shopping,19.62,Card,City Cafe
+EXP-00474,2025-10-11,Food,Dinner,30.66,Cash,Corner Bakery
+EXP-00058,2025-10-12,Entertainment,Movie ticket,57.86,Card,Cinema House
+EXP-00291,2025-10-12,Travel,Flight,393.05,Card,Travel Hub
+EXP-00656,2025-10-12,Transportation,Ride share,17.43,Card,RideNow
+EXP-00286,2025-10-13,Transportation,Parking,12.72,Card,City Parking
+EXP-00569,2025-10-15,Transportation,Fuel,28.94,Card,Metro Transit
+EXP-00021,2025-10-16,Shopping,Household item,68.25,Card,Market Place
+EXP-00177,2025-10-17,Transportation,Bus fare,48.15,Bank Transfer,Metro Transit
+EXP-00540,2025-10-17,Travel,Hotel,171.2,Card,StayEasy
+EXP-00546,2025-10-17,Transportation,Bus fare,15.64,Bank Transfer,City Parking
+EXP-00244,2025-10-18,Utilities,Internet bill,220.38,Bank Transfer,NetConnect
+EXP-00138,2025-10-19,Utilities,Internet bill,67.88,Bank Transfer,Power Company
+EXP-00296,2025-10-19,Other,Miscellaneous,21.46,Digital Wallet,Local Shop
+EXP-00565,2025-10-19,Healthcare,Doctor visit,72.35,Digital Wallet,Health Clinic
+EXP-00309,2025-10-21,Food,Coffee,40.59,Cash,Fresh Market
+EXP-00653,2025-10-21,Healthcare,Pharmacy,230.44,Digital Wallet,Wellness Store
+EXP-00134,2025-10-24,Transportation,Parking,32.66,Card,RideNow
+EXP-00719,2025-10-24,Healthcare,Health supplies,54.52,Card,Community Pharmacy
+EXP-00095,2025-10-26,Food,Lunch,35.06,Card,Corner Bakery
+EXP-00403,2025-10-26,Shopping,Clothing,132.34,Cash,Style Shop
+EXP-00524,2025-10-26,Entertainment,Streaming subscription,61.14,Card,Music Hall
+EXP-00525,2025-10-26,Food,Coffee,17.97,Cash,Fresh Market
+EXP-00147,2025-10-28,Transportation,Ride share,42.75,Cash,City Parking
+EXP-00163,2025-10-29,Food,Dinner,24.19,Digital Wallet,Fresh Market
+EXP-00483,2025-10-29,Entertainment,Concert,41.89,Card,StreamFlix
+EXP-00547,2025-10-29,Transportation,Ride share,15.49,Digital Wallet,Fuel Station
+EXP-00641,2025-10-29,Shopping,Clothing,91.6,Card,Style Shop
+EXP-00531,2025-10-30,Shopping,Household item,41.19,Card,Style Shop
+EXP-00425,2025-11-01,Entertainment,Movie ticket,21.42,Card,Music Hall
+EXP-00493,2025-11-01,Healthcare,Doctor visit,41.84,Card,Wellness Store
+EXP-00210,2025-11-02,Utilities,Phone bill,70.05,Card,Mobile Provider
+EXP-00219,2025-11-03,Other,Gift,24.86,Card,Various
+EXP-00521,2025-11-03,Education,Learning supplies,53.62,Digital Wallet,Course Platform
+EXP-00529,2025-11-03,Shopping,Clothing,69.62,Cash,Market Place
+EXP-00060,2025-11-04,Food,Lunch,22.08,Card,Neighborhood Restaurant
+EXP-00159,2025-11-05,Shopping,Household item,67.05,Card,General Store
+EXP-00404,2025-11-05,Food,Coffee,30.77,Card,Neighborhood Restaurant
+EXP-00444,2025-11-05,Food,Coffee,40.18,Cash,Fresh Market
+EXP-00596,2025-11-05,Food,Coffee,18.87,Card,Neighborhood Restaurant
+EXP-00217,2025-11-06,Food,Dinner,36.46,Card,Fresh Market
+EXP-00423,2025-11-06,Housing,Rent payment,508.31,Card,Apartment Management
+EXP-00709,2025-11-06,Transportation,Parking,22.08,Digital Wallet,City Parking
+EXP-00025,2025-11-07,Shopping,Online order,67.76,Cash,General Store
+EXP-00108,2025-11-07,Food,Dinner,39.25,Card,City Cafe
+EXP-00416,2025-11-07,Food,Coffee,52.45,Card,Fresh Market
+EXP-00456,2025-11-07,Food,Dinner,27.59,Cash,Corner Bakery
+EXP-00112,2025-11-08,Food,Coffee,35.02,Card,Fresh Market
+EXP-00710,2025-11-08,Utilities,Internet bill,150.74,Card,NetConnect
+EXP-00120,2025-11-09,Entertainment,Movie ticket,29.75,Bank Transfer,Cinema House
+EXP-00713,2025-11-09,Travel,Hotel,466.55,Digital Wallet,Rail Network
+EXP-00266,2025-11-10,Food,Grocery shopping,21.32,Digital Wallet,Corner Bakery
+EXP-00046,2025-11-11,Travel,Train ticket,140.13,Bank Transfer,Travel Hub
+EXP-00149,2025-11-11,Transportation,Bus fare,38.37,Card,Fuel Station
+EXP-00295,2025-11-11,Travel,Hotel,164.54,Card,Travel Hub
+EXP-00658,2025-11-11,Food,Lunch,37.14,Card,Neighborhood Restaurant
+EXP-00069,2025-11-12,Housing,Repair service,813.55,Card,Home Services
+EXP-00081,2025-11-12,Healthcare,Pharmacy,75.88,Cash,Health Clinic
+EXP-00294,2025-11-12,Food,Dinner,109.27,Cash,City Cafe
+EXP-00665,2025-11-14,Transportation,Bus fare,26.14,Cash,Metro Transit
+EXP-00218,2025-11-15,Food,Coffee,48.89,Bank Transfer,Neighborhood Restaurant
+EXP-00384,2025-11-16,Utilities,Water bill,125.07,Card,Power Company
+EXP-00458,2025-11-16,Transportation,Parking,48.85,Card,Fuel Station
+EXP-00503,2025-11-16,Other,Gift,21.41,Bank Transfer,Various
+EXP-00702,2025-11-16,Transportation,Bus fare,21.97,Card,RideNow
+EXP-00276,2025-11-17,Transportation,Parking,20.34,Cash,Fuel Station
+EXP-00453,2025-11-17,Shopping,Online order,43.18,Cash,General Store
+EXP-00561,2025-11-17,Food,Lunch,61.91,Cash,Corner Bakery
+EXP-00194,2025-11-18,Travel,Flight,233.36,Bank Transfer,StayEasy
+EXP-00273,2025-11-18,Housing,Rent payment,1053.98,Digital Wallet,Hardware Store
+EXP-00352,2025-11-18,Food,Grocery shopping,45.08,Card,City Cafe
+EXP-00375,2025-11-19,Food,Dinner,35.41,Card,City Cafe
+EXP-00312,2025-11-20,Transportation,Fuel,23.91,Card,Metro Transit
+EXP-00651,2025-11-20,Transportation,Bus fare,33.26,Card,City Parking
+EXP-00166,2025-11-21,Transportation,Fuel,40.64,Digital Wallet,RideNow
+EXP-00252,2025-11-21,Education,Learning supplies,36.12,Card,Book Corner
+EXP-00472,2025-11-21,Utilities,Phone bill,70.36,Card,Mobile Provider
+EXP-00602,2025-11-22,Shopping,Household item,66.58,Digital Wallet,Style Shop
+EXP-00621,2025-11-23,Shopping,Online order,52.25,Digital Wallet,General Store
+EXP-00031,2025-11-24,Shopping,Household item,77.0,Card,General Store
+EXP-00117,2025-11-24,Shopping,Household item,60.09,Card,Style Shop
+EXP-00192,2025-11-24,Food,Grocery shopping,35.39,Cash,Fresh Market
+EXP-00438,2025-11-24,Utilities,Phone bill,99.68,Cash,Mobile Provider
+EXP-00292,2025-11-26,Housing,Repair service,1095.74,Digital Wallet,Home Services
+EXP-00386,2025-11-26,Other,Miscellaneous,26.77,Cash,Various
+EXP-00129,2025-11-28,Food,Grocery shopping,23.02,Card,City Cafe
+EXP-00628,2025-11-28,Food,Grocery shopping,37.04,Card,Fresh Market
+EXP-00674,2025-11-29,Shopping,Clothing,90.3,Digital Wallet,General Store
+EXP-00067,2025-11-30,Entertainment,Movie ticket,40.15,Card,StreamFlix
+EXP-00268,2025-11-30,Food,Lunch,26.36,Cash,Corner Bakery
+EXP-00661,2025-11-30,Food,Grocery shopping,77.83,Card,Neighborhood Restaurant
+EXP-00673,2025-11-30,Other,Miscellaneous,24.03,Bank Transfer,Various
+EXP-00508,2025-12-01,Travel,Train ticket,140.98,Bank Transfer,Travel Hub
+EXP-00511,2025-12-01,Housing,Rent payment,691.23,Card,Hardware Store
+EXP-00090,2025-12-02,Utilities,Water bill,88.64,Digital Wallet,Mobile Provider
+EXP-00124,2025-12-02,Transportation,Parking,23.55,Card,RideNow
+EXP-00265,2025-12-02,Other,Miscellaneous,25.93,Bank Transfer,Various
+EXP-00532,2025-12-03,Shopping,Online order,70.87,Card,General Store
+EXP-00574,2025-12-03,Shopping,Online order,80.2,Card,Style Shop
+EXP-00183,2025-12-04,Utilities,Electricity bill,74.57,Digital Wallet,Water Works
+EXP-00239,2025-12-04,Housing,Home supplies,1257.21,Card,Hardware Store
+EXP-00550,2025-12-04,Transportation,Ride share,32.82,Cash,Metro Transit
+EXP-00076,2025-12-06,Food,Coffee,42.29,Bank Transfer,Neighborhood Restaurant
+EXP-00311,2025-12-06,Utilities,Water bill,115.55,Card,Water Works
+EXP-00093,2025-12-07,Transportation,Bus fare,28.44,Digital Wallet,City Parking
+EXP-00537,2025-12-07,Utilities,Phone bill,89.09,Card,Power Company
+EXP-00003,2025-12-08,Education,Course fee,87.92,Cash,Course Platform
+EXP-00326,2025-12-08,Healthcare,Pharmacy,44.99,Card,Health Clinic
+EXP-00708,2025-12-08,Shopping,Clothing,53.13,Card,Style Shop
+EXP-00007,2025-12-09,Shopping,Clothing,64.25,Digital Wallet,Style Shop
+EXP-00249,2025-12-09,Transportation,Ride share,11.45,Cash,RideNow
+EXP-00397,2025-12-10,Travel,Flight,209.43,Card,Airline Co
+EXP-00434,2025-12-10,Travel,Train ticket,152.76,Digital Wallet,Travel Hub
+EXP-00470,2025-12-10,Utilities,Water bill,46.87,Card,Mobile Provider
+EXP-00657,2025-12-10,Education,Learning supplies,56.9,Card,Course Platform
+EXP-00241,2025-12-11,Travel,Train ticket,199.97,Bank Transfer,Travel Hub
+EXP-00614,2025-12-12,Other,Gift,41.14,Card,Community Center
+EXP-00287,2025-12-13,Housing,Home supplies,573.06,Card,Hardware Store
+EXP-00588,2025-12-13,Transportation,Fuel,29.77,Cash,RideNow
+EXP-00392,2025-12-14,Food,Coffee,29.09,Bank Transfer,Corner Bakery
+EXP-00490,2025-12-14,Entertainment,Streaming subscription,104.62,Card,StreamFlix
+EXP-00494,2025-12-14,Food,Lunch,23.68,Bank Transfer,City Cafe
+EXP-00682,2025-12-14,Food,Dinner,23.58,Card,Neighborhood Restaurant
+EXP-00344,2025-12-15,Entertainment,Movie ticket,51.83,Card,Cinema House
+EXP-00008,2025-12-17,Shopping,Household item,73.3,Cash,General Store
+EXP-00260,2025-12-17,Entertainment,Streaming subscription,40.5,Cash,Cinema House
+EXP-00370,2025-12-17,Education,Course fee,124.34,Card,Book Corner
+EXP-00499,2025-12-17,Transportation,Bus fare,26.79,Card,City Parking
+EXP-00677,2025-12-17,Other,Donation,16.68,Digital Wallet,Community Center
+EXP-00703,2025-12-18,Food,Dinner,39.93,Card,Corner Bakery
+EXP-00127,2025-12-20,Transportation,Parking,12.56,Card,RideNow
+EXP-00515,2025-12-21,Transportation,Fuel,26.34,Bank Transfer,City Parking
+EXP-00035,2025-12-23,Utilities,Electricity bill,173.59,Bank Transfer,Water Works
+EXP-00209,2025-12-23,Food,Coffee,39.73,Card,City Cafe
+EXP-00357,2025-12-23,Shopping,Clothing,61.09,Cash,Market Place
+EXP-00692,2025-12-23,Education,Learning supplies,39.4,Card,Book Corner
+EXP-00306,2025-12-24,Utilities,Water bill,85.43,Bank Transfer,Power Company
+EXP-00236,2025-12-25,Travel,Hotel,297.16,Card,Travel Hub
+EXP-00267,2025-12-25,Food,Coffee,49.07,Bank Transfer,City Cafe
+EXP-00390,2025-12-25,Education,Learning supplies,77.32,Digital Wallet,Learning Center
+EXP-00017,2025-12-26,Entertainment,Movie ticket,82.88,Card,StreamFlix
+EXP-00130,2025-12-26,Entertainment,Concert,43.42,Cash,Cinema House
+EXP-00388,2025-12-26,Other,Donation,20.83,Card,Local Shop
+EXP-00595,2025-12-26,Housing,Rent payment,826.17,Card,Home Services
+EXP-00307,2025-12-27,Transportation,Bus fare,35.46,Bank Transfer,City Parking
+EXP-00522,2025-12-27,Transportation,Bus fare,17.18,Card,RideNow
+EXP-00599,2025-12-27,Other,Miscellaneous,39.39,Cash,Community Center
+EXP-00180,2025-12-28,Shopping,Clothing,47.95,Card,Market Place
+EXP-00186,2025-12-29,Healthcare,Doctor visit,67.48,Card,Wellness Store
+EXP-00558,2025-12-29,Utilities,Internet bill,161.58,Card,Power Company
+EXP-00606,2025-12-29,Shopping,Household item,56.58,Card,Style Shop
+EXP-00119,2025-12-30,Transportation,Bus fare,14.87,Bank Transfer,RideNow

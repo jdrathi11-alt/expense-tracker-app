@@ -1,0 +1,5 @@
+payment_method,total_amount,transaction_count,average_amount,share_pct
+Card,43822.76,378,115.93,50.07
+Bank Transfer,18265.78,117,156.12,20.87
+Digital Wallet,14988.97,107,140.08,17.13
+Cash,10441.12,114,91.59,11.93

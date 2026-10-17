@@ -1,0 +1,11 @@
+category,total_amount,transaction_count,average_amount,share_pct
+Housing,45739.93,47,973.19,52.26
+Travel,8309.72,39,213.07,9.49
+Food,7040.21,184,38.26,8.04
+Shopping,6597.04,90,73.3,7.54
+Utilities,5258.1,56,93.89,6.01
+Healthcare,4314.32,47,91.79,4.93
+Entertainment,2735.15,60,45.59,3.13
+Transportation,2696.57,89,30.3,3.08
+Education,2519.93,34,74.12,2.88
+Other,2307.66,70,32.97,2.64

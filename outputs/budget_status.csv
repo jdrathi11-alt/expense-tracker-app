@@ -1,0 +1,11 @@
+category,monthly_budget,period_budget,budget,actual_spend,spent,remaining_budget,remaining,utilization_pct,status
+Housing,1400.0,16800.0,16800.0,45739.93,45739.93,-28939.93,-28939.93,272.26,Over budget
+Travel,300.0,3600.0,3600.0,8309.72,8309.72,-4709.72,-4709.72,230.83,Over budget
+Utilities,250.0,3000.0,3000.0,5258.1,5258.1,-2258.1,-2258.1,175.27,Over budget
+Shopping,350.0,4200.0,4200.0,6597.04,6597.04,-2397.04,-2397.04,157.07,Over budget
+Healthcare,250.0,3000.0,3000.0,4314.32,4314.32,-1314.32,-1314.32,143.81,Over budget
+Education,150.0,1800.0,1800.0,2519.93,2519.93,-719.93,-719.93,140.0,Over budget
+Food,500.0,6000.0,6000.0,7040.21,7040.21,-1040.21,-1040.21,117.34,Over budget
+Entertainment,200.0,2400.0,2400.0,2735.15,2735.15,-335.15,-335.15,113.96,Over budget
+Other,200.0,2400.0,2400.0,2307.66,2307.66,92.34,92.34,96.15,On track
+Transportation,250.0,3000.0,3000.0,2696.57,2696.57,303.43,303.43,89.89,On track

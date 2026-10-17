@@ -1,0 +1,16 @@
+{
+  "total_spend": 87518.63,
+  "transaction_count": 716,
+  "average_transaction": 122.23,
+  "median_transaction": 48.81,
+  "largest_expense": 2346.5,
+  "smallest_expense": 8.82,
+  "top_category": "Housing",
+  "top_category_spend": 45739.93,
+  "top_month": "2025-05",
+  "top_month_spend": 16346.19,
+  "budget_total": 46200.0,
+  "budget_used_pct": 189.43,
+  "date_start": "2025-01-01",
+  "date_end": "2025-12-30"
+}

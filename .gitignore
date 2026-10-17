@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+.env.*
+htmlcov/
+.venv/
+venv/
+env/
+*.egg-info/
+.DS_Store
+
+# Keep the project folders but ignore generated artifacts.
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+images/*
+!images/.gitkeep
+!images/*.png

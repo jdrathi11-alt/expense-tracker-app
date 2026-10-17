@@ -1,0 +1,379 @@
+{
+  "category_summary": [
+    {
+      "category": "Housing",
+      "total_amount": 45739.93,
+      "transaction_count": 47,
+      "average_amount": 973.19,
+      "share_pct": 52.26
+    },
+    {
+      "category": "Travel",
+      "total_amount": 8309.72,
+      "transaction_count": 39,
+      "average_amount": 213.07,
+      "share_pct": 9.49
+    },
+    {
+      "category": "Food",
+      "total_amount": 7040.21,
+      "transaction_count": 184,
+      "average_amount": 38.26,
+      "share_pct": 8.04
+    },
+    {
+      "category": "Shopping",
+      "total_amount": 6597.04,
+      "transaction_count": 90,
+      "average_amount": 73.3,
+      "share_pct": 7.54
+    },
+    {
+      "category": "Utilities",
+      "total_amount": 5258.1,
+      "transaction_count": 56,
+      "average_amount": 93.89,
+      "share_pct": 6.01
+    },
+    {
+      "category": "Healthcare",
+      "total_amount": 4314.32,
+      "transaction_count": 47,
+      "average_amount": 91.79,
+      "share_pct": 4.93
+    },
+    {
+      "category": "Entertainment",
+      "total_amount": 2735.15,
+      "transaction_count": 60,
+      "average_amount": 45.59,
+      "share_pct": 3.13
+    },
+    {
+      "category": "Transportation",
+      "total_amount": 2696.57,
+      "transaction_count": 89,
+      "average_amount": 30.3,
+      "share_pct": 3.08
+    },
+    {
+      "category": "Education",
+      "total_amount": 2519.93,
+      "transaction_count": 34,
+      "average_amount": 74.12,
+      "share_pct": 2.88
+    },
+    {
+      "category": "Other",
+      "total_amount": 2307.66,
+      "transaction_count": 70,
+      "average_amount": 32.97,
+      "share_pct": 2.64
+    }
+  ],
+  "monthly_summary": [
+    {
+      "month": "2025-01",
+      "total_amount": 8117.07,
+      "transaction_count": 58,
+      "average_amount": 139.95,
+      "share_pct": 9.27
+    },
+    {
+      "month": "2025-02",
+      "total_amount": 7072.77,
+      "transaction_count": 63,
+      "average_amount": 112.27,
+      "share_pct": 8.08
+    },
+    {
+      "month": "2025-03",
+      "total_amount": 6096.71,
+      "transaction_count": 59,
+      "average_amount": 103.33,
+      "share_pct": 6.97
+    },
+    {
+      "month": "2025-04",
+      "total_amount": 8835.86,
+      "transaction_count": 65,
+      "average_amount": 135.94,
+      "share_pct": 10.1
+    },
+    {
+      "month": "2025-05",
+      "total_amount": 16346.19,
+      "transaction_count": 66,
+      "average_amount": 247.67,
+      "share_pct": 18.68
+    },
+    {
+      "month": "2025-06",
+      "total_amount": 5788.14,
+      "transaction_count": 58,
+      "average_amount": 99.8,
+      "share_pct": 6.61
+    },
+    {
+      "month": "2025-07",
+      "total_amount": 5089.12,
+      "transaction_count": 57,
+      "average_amount": 89.28,
+      "share_pct": 5.81
+    },
+    {
+      "month": "2025-08",
+      "total_amount": 5115.48,
+      "transaction_count": 59,
+      "average_amount": 86.7,
+      "share_pct": 5.85
+    },
+    {
+      "month": "2025-09",
+      "total_amount": 4474.59,
+      "transaction_count": 60,
+      "average_amount": 74.58,
+      "share_pct": 5.11
+    },
+    {
+      "month": "2025-10",
+      "total_amount": 6301.24,
+      "transaction_count": 48,
+      "average_amount": 131.28,
+      "share_pct": 7.2
+    },
+    {
+      "month": "2025-11",
+      "total_amount": 7118.63,
+      "transaction_count": 63,
+      "average_amount": 112.99,
+      "share_pct": 8.13
+    },
+    {
+      "month": "2025-12",
+      "total_amount": 7162.83,
+      "transaction_count": 60,
+      "average_amount": 119.38,
+      "share_pct": 8.18
+    }
+  ],
+  "payment_summary": [
+    {
+      "payment_method": "Card",
+      "total_amount": 43822.76,
+      "transaction_count": 378,
+      "average_amount": 115.93,
+      "share_pct": 50.07
+    },
+    {
+      "payment_method": "Bank Transfer",
+      "total_amount": 18265.78,
+      "transaction_count": 117,
+      "average_amount": 156.12,
+      "share_pct": 20.87
+    },
+    {
+      "payment_method": "Digital Wallet",
+      "total_amount": 14988.97,
+      "transaction_count": 107,
+      "average_amount": 140.08,
+      "share_pct": 17.13
+    },
+    {
+      "payment_method": "Cash",
+      "total_amount": 10441.12,
+      "transaction_count": 114,
+      "average_amount": 91.59,
+      "share_pct": 11.93
+    }
+  ],
+  "weekday_summary": [
+    {
+      "weekday": "Monday",
+      "total_amount": 12743.03,
+      "transaction_count": 121,
+      "average_amount": 105.31,
+      "share_pct": 14.56
+    },
+    {
+      "weekday": "Tuesday",
+      "total_amount": 13353.46,
+      "transaction_count": 102,
+      "average_amount": 130.92,
+      "share_pct": 15.26
+    },
+    {
+      "weekday": "Wednesday",
+      "total_amount": 13557.03,
+      "transaction_count": 88,
+      "average_amount": 154.06,
+      "share_pct": 15.49
+    },
+    {
+      "weekday": "Thursday",
+      "total_amount": 10713.03,
+      "transaction_count": 88,
+      "average_amount": 121.74,
+      "share_pct": 12.24
+    },
+    {
+      "weekday": "Friday",
+      "total_amount": 11668.12,
+      "transaction_count": 93,
+      "average_amount": 125.46,
+      "share_pct": 13.33
+    },
+    {
+      "weekday": "Saturday",
+      "total_amount": 15310.22,
+      "transaction_count": 105,
+      "average_amount": 145.81,
+      "share_pct": 17.49
+    },
+    {
+      "weekday": "Sunday",
+      "total_amount": 10173.74,
+      "transaction_count": 119,
+      "average_amount": 85.49,
+      "share_pct": 11.62
+    }
+  ],
+  "kpis": {
+    "total_spend": 87518.63,
+    "transaction_count": 716,
+    "average_transaction": 122.23,
+    "median_transaction": 48.81,
+    "largest_expense": 2346.5,
+    "smallest_expense": 8.82,
+    "top_category": "Housing",
+    "top_category_spend": 45739.93,
+    "top_month": "2025-05",
+    "top_month_spend": 16346.19,
+    "budget_total": 46200.0,
+    "budget_used_pct": 189.43,
+    "date_start": "2025-01-01",
+    "date_end": "2025-12-30"
+  },
+  "budget_status": [
+    {
+      "category": "Housing",
+      "monthly_budget": 1400.0,
+      "period_budget": 16800.0,
+      "budget": 16800.0,
+      "actual_spend": 45739.93,
+      "spent": 45739.93,
+      "remaining_budget": -28939.93,
+      "remaining": -28939.93,
+      "utilization_pct": 272.26,
+      "status": "Over budget"
+    },
+    {
+      "category": "Travel",
+      "monthly_budget": 300.0,
+      "period_budget": 3600.0,
+      "budget": 3600.0,
+      "actual_spend": 8309.72,
+      "spent": 8309.72,
+      "remaining_budget": -4709.72,
+      "remaining": -4709.72,
+      "utilization_pct": 230.83,
+      "status": "Over budget"
+    },
+    {
+      "category": "Utilities",
+      "monthly_budget": 250.0,
+      "period_budget": 3000.0,
+      "budget": 3000.0,
+      "actual_spend": 5258.1,
+      "spent": 5258.1,
+      "remaining_budget": -2258.1,
+      "remaining": -2258.1,
+      "utilization_pct": 175.27,
+      "status": "Over budget"
+    },
+    {
+      "category": "Shopping",
+      "monthly_budget": 350.0,
+      "period_budget": 4200.0,
+      "budget": 4200.0,
+      "actual_spend": 6597.04,
+      "spent": 6597.04,
+      "remaining_budget": -2397.04,
+      "remaining": -2397.04,
+      "utilization_pct": 157.07,
+      "status": "Over budget"
+    },
+    {
+      "category": "Healthcare",
+      "monthly_budget": 250.0,
+      "period_budget": 3000.0,
+      "budget": 3000.0,
+      "actual_spend": 4314.32,
+      "spent": 4314.32,
+      "remaining_budget": -1314.32,
+      "remaining": -1314.32,
+      "utilization_pct": 143.81,
+      "status": "Over budget"
+    },
+    {
+      "category": "Education",
+      "monthly_budget": 150.0,
+      "period_budget": 1800.0,
+      "budget": 1800.0,
+      "actual_spend": 2519.93,
+      "spent": 2519.93,
+      "remaining_budget": -719.93,
+      "remaining": -719.93,
+      "utilization_pct": 140.0,
+      "status": "Over budget"
+    },
+    {
+      "category": "Food",
+      "monthly_budget": 500.0,
+      "period_budget": 6000.0,
+      "budget": 6000.0,
+      "actual_spend": 7040.21,
+      "spent": 7040.21,
+      "remaining_budget": -1040.21,
+      "remaining": -1040.21,
+      "utilization_pct": 117.34,
+      "status": "Over budget"
+    },
+    {
+      "category": "Entertainment",
+      "monthly_budget": 200.0,
+      "period_budget": 2400.0,
+      "budget": 2400.0,
+      "actual_spend": 2735.15,
+      "spent": 2735.15,
+      "remaining_budget": -335.15,
+      "remaining": -335.15,
+      "utilization_pct": 113.96,
+      "status": "Over budget"
+    },
+    {
+      "category": "Other",
+      "monthly_budget": 200.0,
+      "period_budget": 2400.0,
+      "budget": 2400.0,
+      "actual_spend": 2307.66,
+      "spent": 2307.66,
+      "remaining_budget": 92.34,
+      "remaining": 92.34,
+      "utilization_pct": 96.15,
+      "status": "On track"
+    },
+    {
+      "category": "Transportation",
+      "monthly_budget": 250.0,
+      "period_budget": 3000.0,
+      "budget": 3000.0,
+      "actual_spend": 2696.57,
+      "spent": 2696.57,
+      "remaining_budget": 303.43,
+      "remaining": 303.43,
+      "utilization_pct": 89.89,
+      "status": "On track"
+    }
+  ]
+}
