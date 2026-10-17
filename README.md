@@ -470,7 +470,7 @@ link them with relative Markdown paths.
 Each day should end with a visible artifact. That habit makes the project easy
 to explain and gives a reviewer evidence beyond source code.
 
-## 14. Interview quick links
+## 12. Interview quick links
 
 - [Interview questions and strong answers](INTERVIEW_PREP.md)
 - [Phase roadmap and acceptance criteria](PROJECT_PLAN.md)
@@ -479,7 +479,7 @@ to explain and gives a reviewer evidence beyond source code.
 - [pandas documentation](https://pandas.pydata.org/docs/)
 - [Python virtual environments](https://docs.python.org/3/library/venv.html)
 
-## 15. Future improvements
+## 13. Future improvements
 
 - Add user-selectable currency and locale-aware formatting.
 - Add budget targets and variance-to-budget indicators.
@@ -499,7 +499,7 @@ to explain and gives a reviewer evidence beyond source code.
 
 
 
-## 17. Limitations and synthetic-data note
+## 14. Limitations and synthetic-data note
 
 Synthetic data is useful for reproducible demonstrations, but it does not
 represent a real person's financial behavior. It can miss seasonality,
