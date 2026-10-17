@@ -463,43 +463,9 @@ Suggested image names are `dashboard-overview.png`, `dashboard-filters.png`,
 and `dashboard-insights.png`. Store them in `images/` or `docs/images/` and
 link them with relative Markdown paths.
 
-## 12. GitHub upload steps
 
-Choose a clear repository identity:
 
-- **Repository name:** `expense-tracker-app`
-- **Description:** `A reproducible Python expense analytics pipeline with an optional Streamlit dashboard.`
-- **Suggested tags/topics:** `python`, `pandas`, `data-analysis`,
-  `data-visualization`, `streamlit`, `expense-tracker`, `portfolio-project`,
-  `beginner-data-science`
 
-Exact commands and a commit-message plan are in
-[GITHUB_GUIDE.md](GITHUB_GUIDE.md). The short version is:
-
-```bash
-git init
-git branch -M main
-git add .
-git diff --cached --stat
-git diff --cached --check
-git commit -m "feat: add expense tracker analytics pipeline"
-git remote add origin https://github.com/YOUR_USERNAME/expense-tracker-app.git
-git push -u origin main
-```
-
-Do not commit `.venv/`, secrets, raw private financial data, generated caches,
-or large unreviewed output folders. Add or review a suitable `.gitignore` in
-the core project before the first real commit.
-
-## 13. Five-day proof-building plan
-
-| Day | Focus | Proof to finish |
-| --- | --- | --- |
-| 1 | Setup | Virtual environment, requirements, folders, and first smoke check |
-| 2 | Dataset | Synthetic generator, schema, seed, and dataset preview screenshot |
-| 3 | Analysis | Cleaning, feature engineering, reconciled summaries, and tests |
-| 4 | Visualization | Static charts, dashboard filters, insight bullets, and screenshots |
-| 5 | Final upload | README walkthrough, focused commits, interview rehearsal, and GitHub push |
 
 Each day should end with a visible artifact. That habit makes the project easy
 to explain and gives a reviewer evidence beyond source code.
@@ -530,58 +496,8 @@ to explain and gives a reviewer evidence beyond source code.
   with transparent evaluation and opt-in user data.
 - Add CI for formatting, tests, and a dashboard smoke check.
 
-## 16. Troubleshooting
 
-### `ModuleNotFoundError: No module named 'pandas'`
 
-Activate the virtual environment and run:
-
-```bash
-python -m pip install pandas
-```
-
-### Streamlit is missing
-
-The dashboard is optional. Install its dependencies and rerun:
-
-```bash
-python -m pip install streamlit pandas
-python -m streamlit run dashboard.py
-```
-
-If Streamlit is not installed, running `python dashboard.py` directly prints a
-clear installation hint. When Streamlit is installed, prefer the supported
-`python -m streamlit run dashboard.py` command so the app has a Streamlit runtime.
-
-### The dashboard says the core module is not found
-
-Put the module on the current Python path, use the recommended `src` layout,
-or set `EXPENSE_TRACKER_MODULE` to its dotted import path. The dashboard can
-still show deterministic preview data while the core is connected.
-
-### CSV validation fails
-
-Ensure the file has `date`, `amount`, `category`, and `payment_method` columns
-(case and spacing can vary). Amounts may contain currency symbols or commas.
-Remove rows with dates or amounts that cannot be interpreted.
-
-### Charts are empty
-
-Check the selected date range and multiselect values. If every option was
-removed, restore the selections. Confirm that the amount column contains
-numeric values after cleaning.
-
-### GitHub rejects a push
-
-Check the remote URL and authentication, then run:
-
-```bash
-git remote -v
-git status
-git pull --rebase origin main
-```
-
-Resolve conflicts, review the diff, and push again.
 
 ## 17. Limitations and synthetic-data note
 
@@ -592,3 +508,7 @@ conversion, tax rules, and privacy concerns. Descriptive summaries show
 associations in the supplied rows; they do not prove causes or predict future
 spending. Before using real data, add consent, redaction, secure storage,
 validation, currency handling, and tests for the domain rules that matter.
+
+## Author
+**Jayesh Rathi** — 3rd Year IT Student, Government College of Engineering, Amravati  
+[LinkedIn](https://www.linkedin.com/in/jayesh-rathi-5ab8973b6) | [Email](mailto:jayeshrathinew@gmail.com)
